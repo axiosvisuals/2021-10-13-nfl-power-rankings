@@ -1,6 +1,4 @@
-## 2021 10 13 nfl power rankings
-
-
+## 2021-10-13 NFL Power Rankings
 
 ![alt](/src/fallbacks/2021-10-13-nfl-power-rankings-fallback.png)
 
