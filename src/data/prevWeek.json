@@ -1,34 +1,162 @@
 [
-  { "rank": 1, "team": "Patriots", "record": "1-0" },
-  { "rank": 2, "team": "Chiefs", "record": "1-0" },
-  { "rank": 3, "team": "Saints", "record": "1-0" },
-  { "rank": 4, "team": "Eagles", "record": "1-0" },
-  { "rank": 5, "team": "Rams", "record": "1-0" },
-  { "rank": 6, "team": "Cowboys", "record": "1-0" },
-  { "rank": 7, "team": "Vikings", "record": "1-0" },
-  { "rank": 8, "team": "Chargers", "record": "1-0" },
-  { "rank": 9, "team": "Ravens", "record": "1-0" },
-  { "rank": 10, "team": "Packers", "record": "1-0" },
-  { "rank": 11, "team": "Seahawks", "record": "1-0" },
-  { "rank": 12, "team": "Texans", "record": "0-1" },
-  { "rank": 13, "team": "Titans", "record": "1-0" },
-  { "rank": 14, "team": "Bears", "record": "0-1" },
-  { "rank": 15, "team": "Panthers", "record": "0-1" },
-  { "rank": 16, "team": "Steelers", "record": "0-1" },
-  { "rank": 17, "team": "Browns", "record": "0-1" },
-  { "rank": 18, "team": "Colts", "record": "0-1" },
-  { "rank": 19, "team": "Raiders", "record": "1-0" },
-  { "rank": 20, "team": "49ers", "record": "1-0" },
-  { "rank": 21, "team": "Falcons", "record": "0-1" },
-  { "rank": 22, "team": "Bills", "record": "1-0" },
-  { "rank": 23, "team": "Bengals", "record": "0-1" },
-  { "rank": 24, "team": "Jets", "record": "0-1" },
-  { "rank": 25, "team": "Broncos", "record": "0-1" },
-  { "rank": 26, "team": "Lions", "record": "0-0-1" },
-  { "rank": 27, "team": "Cardinals", "record": "0-0-1" },
-  { "rank": 28, "team": "Washington", "record": "0-1" },
-  { "rank": 29, "team": "Jaguars", "record": "0-1" },
-  { "rank": 30, "team": "Giants", "record": "0-1" },
-  { "rank": 31, "team": "Buccaneers", "record": "0-1" },
-  { "rank": 32, "team": "Dolphins", "record": "0-1" }
+  {
+    "rank": 1,
+    "team": "Cardinals",
+    "record": "4-0"
+  },
+  {
+    "rank": 2,
+    "team": "Bills",
+    "record": "3-1"
+  },
+  {
+    "rank": 3,
+    "team": "Buccaneers",
+    "record": "3-1"
+  },
+  {
+    "rank": 4,
+    "team": "Ravens",
+    "record": "3-1"
+  },
+  {
+    "rank": 5,
+    "team": "Rams",
+    "record": "3-1"
+  },
+  {
+    "rank": 6,
+    "team": "Chiefs",
+    "record": "2-2"
+  },
+  {
+    "rank": 7,
+    "team": "Browns",
+    "record": "3-1"
+  },
+  {
+    "rank": 8,
+    "team": "Packers",
+    "record": "3-1"
+  },
+  {
+    "rank": 9,
+    "team": "Cowboys",
+    "record": "3-1"
+  },
+  {
+    "rank": 10,
+    "team": "Chargers",
+    "record": "3-1"
+  },
+  {
+    "rank": 11,
+    "team": "Seahawks",
+    "record": "2-2"
+  },
+  {
+    "rank": 12,
+    "team": "49ers",
+    "record": "2-2"
+  },
+  {
+    "rank": 13,
+    "team": "Raiders",
+    "record": "3-1"
+  },
+  {
+    "rank": 14,
+    "team": "Broncos",
+    "record": "3-1"
+  },
+  {
+    "rank": 15,
+    "team": "Panthers",
+    "record": "3-1"
+  },
+  {
+    "rank": 16,
+    "team": "Bengals",
+    "record": "3-1"
+  },
+  {
+    "rank": 17,
+    "team": "Vikings",
+    "record": "1-3"
+  },
+  {
+    "rank": 18,
+    "team": "Patriots",
+    "record": "1-3"
+  },
+  {
+    "rank": 19,
+    "team": "Saints",
+    "record": "2-2"
+  },
+  {
+    "rank": 20,
+    "team": "Titans",
+    "record": "2-2"
+  },
+  {
+    "rank": 21,
+    "team": "Steelers",
+    "record": "1-3"
+  },
+  {
+    "rank": 22,
+    "team": "Eagles",
+    "record": "1-3"
+  },
+  {
+    "rank": 23,
+    "team": "Washington",
+    "record": "2-2"
+  },
+  {
+    "rank": 24,
+    "team": "Colts",
+    "record": "1-3"
+  },
+  {
+    "rank": 25,
+    "team": "Dolphins",
+    "record": "1-3"
+  },
+  {
+    "rank": 26,
+    "team": "Bears",
+    "record": "2-2"
+  },
+  {
+    "rank": 27,
+    "team": "Giants",
+    "record": "1-3"
+  },
+  {
+    "rank": 28,
+    "team": "Falcons",
+    "record": "1-3"
+  },
+  {
+    "rank": 29,
+    "team": "Jets",
+    "record": "1-3"
+  },
+  {
+    "rank": 30,
+    "team": "Lions",
+    "record": "0-4"
+  },
+  {
+    "rank": 31,
+    "team": "Jaguars",
+    "record": "0-4"
+  },
+  {
+    "rank": 32,
+    "team": "Texans",
+    "record": "1-3"
+  }
 ]
